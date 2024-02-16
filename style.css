@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: darkgray;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#verticleButtons{
+    display: flex;
+    flex-direction: column;
+}
+
+#networkCanvas{
+    background-color: rgb(26, 12, 12);
+}
+
+#Carcanvas{
+    background-color: lightgray;
+}
